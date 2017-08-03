@@ -1,0 +1,23 @@
+{
+  "name": "week124exercise",
+  "version": "1.0.0",
+  "description": "Make page take in username and password. Then assign tasks to user who signed in. \r This will require at least 1 database, more likely 2.\r \t1 for login information\r \t1 for tasks assigned to user\r \tMay require an INNER JOIN.\r Use MySQL. You're better w/ that than MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BooBooChan/Week-12-4-Exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BooBooChan/Week-12-4-Exercise/issues"
+  },
+  "homepage": "https://github.com/BooBooChan/Week-12-4-Exercise#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0"
+  }
+}
